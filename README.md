@@ -2,7 +2,6 @@
 -  I’m interested in learning programming
 -  I’m currently studying Electronics and Communication at Cairo university 
 -  I’m looking to collaborate on real coding projects
-- 📫 How to reach me  mail: khalednabil759@gmail.com.
 
 <div align="center">
 
