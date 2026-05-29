@@ -4,5 +4,10 @@
 -  I’m looking to collaborate on real coding projects
 - 📫 How to reach me  mail: khalednabil759@gmail.com.
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=khaled759&theme=dark)
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalednabil759@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</div>
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=khaled759&layout=compact&langs_count=8&theme=dark&include_all_commits=true)
